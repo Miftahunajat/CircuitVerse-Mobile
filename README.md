@@ -1,16 +1,25 @@
-# circuitverse_mobile
+# CircuitVerse Mobile
 
-A CircuitVerse Application for mobile
+## Description
+This is the Mobile Version of CircuitVerse.org to view current task assigment status, trending Projects and also view your groups and related projects
 
-## Getting Started
+## Environment Setup
+### Requirements
 
-This project is a starting point for a Flutter application.
+To run this project make sure these requirements are installed on your local computer.
+| tools   | version |
+|---------|---------|
+| flutter | 1.12.13 |
 
-A few resources to get you started if this is your first Flutter project:
+## Build Instruction
+First we need to get all dependencies for flutter projects.
+1. `flutter pub get`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Test Instruction
+TBD
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Run Instruction
+run `flutter run`
+if you have more than one connected devices then run `flutter run -d <device-id>`
+
+## Sample Screen
