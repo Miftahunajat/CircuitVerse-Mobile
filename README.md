@@ -17,7 +17,7 @@ First we need to get all dependencies for flutter projects.
 2. open `lib/utils/constants.dart` and changes `BASE_URL` to your local CircuitVerse url
 
 ## Test Instruction
-TBD
+run `flutter test`
 
 ## Run Instruction
 run `flutter run`

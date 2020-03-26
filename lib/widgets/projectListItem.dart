@@ -1,5 +1,5 @@
 import 'package:circuitverse_mobile/utils/constants.dart';
-import 'package:circuitverse_mobile/widgets/projectDetail.dart';
+import 'package:circuitverse_mobile/widgets/screens/projectDetail.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
