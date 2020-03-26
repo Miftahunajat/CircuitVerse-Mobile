@@ -81,6 +81,9 @@ class _ProjectDescription extends StatelessWidget {
           ),
           Text(
             description,
+            overflow: TextOverflow.ellipsis,
+            maxLines: 2,
+            textAlign: TextAlign.center,
             style: TextStyle(color: Colors.grey[500], fontSize: 12),
           ),
           Padding(
