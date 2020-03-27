@@ -24,4 +24,4 @@ run `flutter run`
 if you have more than one connected devices then run `flutter run -d <device-id>`
 
 ## Sample Screen
-<img src="https://github.com/Miftahunajat/CircuitVerse-Mobile/blob/master/assets/sample.gif" height="320">
+<img src="https://github.com/Miftahunajat/CircuitVerse-Mobile/blob/master/assets/new_sample.gif" height="320">
