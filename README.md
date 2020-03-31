@@ -14,7 +14,7 @@ To run this project make sure these requirements are installed on your local com
 ## Build Instruction
 First we need to get all dependencies for flutter projects.
 1. `flutter pub get`
-2. open `lib/utils/constants.dart` and changes `BASE_URL` to your local CircuitVerse url
+2. open `lib/utils/constants.dart` and changes `BASE_URL` to your local CircuitVerse url (i recommend using [ngrok](https://ngrok.com/) for local development)
 
 ## Test Instruction
 run `flutter test`
